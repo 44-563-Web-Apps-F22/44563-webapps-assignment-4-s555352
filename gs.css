@@ -1,0 +1,61 @@
+body{
+    background-color:lavender;
+}
+
+p:hover {
+    background-color:rgb(187, 191, 196);
+}
+
+h1{
+    color:rgb(107, 4, 132);
+}
+
+h2:hover{
+    color:rgb(213, 210, 216);
+}
+  
+h2{
+    color:rgb(237, 158, 143);
+    text-shadow: 3px 3px 5px;
+}
+
+h3{
+    color:rgb(226, 99, 20);}
+
+h3{
+    font-size:20px;}
+
+h4{
+    color:rgb(57, 3, 71);}
+
+h5{
+    color:rgb(135, 15, 15);
+}
+
+h5{
+    font-size:18px;}
+
+p{
+    color:rgb(19, 89, 133);
+}
+
+span{
+    color:rgb(6, 44, 6);
+}
+
+span:hover{
+    background-color:rgb(131, 142, 148);
+}
+
+h3{
+    font-style: italic;
+}
+
+h4{
+    font-style: inherit;
+}
+
+.Fantasy{
+    font: size 10px;
+    color:rgba(161, 28, 59, 0.592);
+}
