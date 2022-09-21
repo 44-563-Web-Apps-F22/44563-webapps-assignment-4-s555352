@@ -10,15 +10,6 @@ h1{
     color:rgb(107, 4, 132);
 }
 
-h2:hover{
-    color:rgb(213, 210, 216);
-}
-  
-h2{
-    color:rgb(237, 158, 143);
-    text-shadow: 3px 3px 5px;
-}
-
 h3{
     color:rgb(226, 99, 20);}
 
@@ -58,4 +49,33 @@ h4{
 .Fantasy{
     font: size 10px;
     color:rgba(161, 28, 59, 0.592);
+}
+
+table{
+    border-style: solid;
+}
+th, td{
+    border: 1px solid rgba(48, 5, 5, 0.409);
+}
+th{
+   color:rgb(16, 18, 143);
+}
+td{
+    color:rgb(193, 62, 114);
+}
+tr:nth-child(even){
+    background-color:rgb(135, 83, 214);
+}
+td{
+    text-align: center;
+}
+h,td{
+    width: 120px;
+    padding:1px 1px 1px 1px;
+    margin: -20px 0px -15px 80px;
+    background: rgb(167, 184, 215);
+    border-top: 2px solid rgb(131, 205, 63);
+    border-right: 3px dashed rgb(224, 155, 155);
+    border-bottom: 4px double rgb(122, 122, 70);
+    border-left: 16px inset rgba(82, 5, 82, 0.884);
 }
