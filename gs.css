@@ -56,3 +56,9 @@ th {
             border-bottom: 8px double rgb(179, 179, 121);
             border-left: 16px inset purple;
          }
+         h2{
+            text-shadow: 0 0 4px rgb(88, 5, 73);
+        }
+        h2:hover{
+            background-color: rgba(153, 50, 204, 0.333);
+        }
