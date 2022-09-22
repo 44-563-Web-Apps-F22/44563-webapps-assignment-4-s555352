@@ -1,122 +1,29 @@
-body{
-    background-color:lavender;
-}
+.speech{
+    color:black;
+    font-size:16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
 
-p:hover {
-    background-color:rgb(187, 191, 196);
-}
+.song{
+    font-size: 22px;
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+    
+.direction{
+    font: size 20px;
+    color:black;
+    background-color: rgb(218, 178, 232);}
 
-/*p{
-    background-color:rgb(201, 208, 218);
-}*/
+.name{
+    font-size: 18px;
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;}
 
-h1{
-    color:rgb(107, 4, 132);
-}
+.ALL{
+    font-size: 18px;
+    color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;}
 
-h3{
-    color:rgb(226, 99, 20);}
-
-h3{
-    font-size:20px;}
-
-h4{
-    color:rgb(57, 3, 71);}
-
-h5{
-    color:rgb(135, 15, 15);
-}
-
-h5{
-    font-size:18px;}
-
-p{
-    color:rgb(19, 89, 133);
-}
-
-span{
-    color:rgb(6, 44, 6);
-}
-
-span:hover{
-    background-color:rgb(131, 142, 148);
-}
-
-h3{
-    font-style: italic;
-}
-
-h4{
-    font-style: inherit;
-}
-
-.Fantasy{
-    font: size 10px;
-    color:rgba(161, 28, 59, 0.592);
-}
-
-table{
-    border-style: solid;
-}
-th, td{
-    border: 1px solid rgba(48, 5, 5, 0.409);
-}
-th{
-   color:rgb(16, 18, 143);
-}
-td{
-    color:rgb(193, 62, 114);
-}
-
-tr:nth-child(even){
-    background-color:rgb(135, 83, 214);
-}
-td{
-    text-align: center;
-}
-h,td{
-    width: 120px;
-    padding:1px 1px 1px 1px;
-    margin: -20px 0px -15px 80px;
-    background: rgb(167, 184, 215);
-    border-top: 2px solid rgb(131, 205, 63);
-    border-right: 3px dashed rgb(224, 155, 155);
-    border-bottom: 4px double rgb(122, 122, 70);
-    border-left: 16px inset rgba(82, 5, 82, 0.884);
-}
-
-h2{
-    text-shadow: 0 0 4px rgb(88, 5, 73);
-}
-h2:hover{
-    background-color: rgba(153, 50, 204, 0.333);
-}
-
-.material-icons{
-    font: size 10px;
-    color:rgba(214, 4, 102, 0.592);
-}
-
-ul {
-    list-style-type: none;
-    margin: 3px;
-    padding: 3 px;
-    overflow: hidden;
-    background-color: rgb(22, 166, 42);
-  }
-  
-  li {
-    float: left;
-  }
-  
-  li a {
-    display: block;
-    color: rgb(232, 226, 226);
-    text-align: center;
-    padding: 13px 16px;
-    text-decoration: none;
-  }
-  
-  li a:hover {
-    background-color:rgb(212, 51, 83);
-  }
+.direction:hover{
+    color:rgb(34, 220, 56);
+    background-color:
+    rgb(125, 172, 208);}
