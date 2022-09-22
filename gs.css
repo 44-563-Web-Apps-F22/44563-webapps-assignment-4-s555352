@@ -27,3 +27,32 @@
     color:rgb(34, 220, 56);
     background-color:
     rgb(125, 172, 208);}
+
+table{
+    border-style: solid;
+}
+th, td {
+    border: 1px solid black;
+  }
+th {
+   color:rgb(220, 60, 130);
+      }
+      td{
+        color:rgb(9, 97, 141);
+      }
+       tr:nth-child(even) {
+        background-color:rgb(193, 171, 225);
+      }
+      td {
+        text-align: center;
+        }
+        h,td {
+            width: 120px;
+            padding:1px 1px 1px 1px;
+            margin: -28px 0px -10px 100px;
+            background: lightblue;
+            border-top: 2px solid rgb(89, 75, 75);
+            border-right: 4px dashed rgb(154, 98, 98);
+            border-bottom: 8px double rgb(179, 179, 121);
+            border-left: 16px inset purple;
+         }
