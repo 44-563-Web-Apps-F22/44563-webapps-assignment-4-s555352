@@ -62,3 +62,31 @@ th {
         h2:hover{
             background-color: rgba(153, 50, 204, 0.333);
         }
+        .material-icons{
+            font: size 10px;
+            color:rgba(52, 49, 222, 0.592);
+        }
+        
+        ul {
+            list-style-type: none;
+            margin: 3px;
+            padding: 3 px;
+            overflow: hidden;
+            background-color: rgb(148, 168, 211);
+          }
+          
+          li {
+            float: left;
+          }
+          
+          li a {
+            display: block;
+            color: rgb(232, 226, 226);
+            text-align: center;
+            padding: 13px 16px;
+            text-decoration: none;
+          }
+          
+          li a:hover {
+            background-color:rgb(87, 183, 35);
+          }
